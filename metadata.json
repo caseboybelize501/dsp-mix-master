@@ -1,0 +1,7 @@
+{
+  "name": "DSP MIX/MASTER",
+  "description": "A professional audio engineering tool to test how your mixes translate across different environments like cars, hallways, and outdoor spaces using real-time DSP.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
